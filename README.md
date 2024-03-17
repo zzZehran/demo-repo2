@@ -1,3 +1,3 @@
 # Demo repo 2
 
-This is another demo repo.
+This demo repo 2. We are pushing and setting origin locally.
